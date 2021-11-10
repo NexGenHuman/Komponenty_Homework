@@ -14,9 +14,6 @@ var objectList = [
 
 function App() {
   
-  //Nie wykonałem wypisywania pętlą ponieważ miałem problem z wyznaczaniem dystansu w pętli
-  //Wcześniej udało mi się wykonać wypisywanie za pomocą .map() ale odmierzałem wtedy dystansy przed wypisywaniem
-  //To zadanie chciałbym jeszcze poprawić
     return (
       <div className="App">
         <table>
