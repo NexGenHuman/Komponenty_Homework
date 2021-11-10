@@ -31,6 +31,4 @@ function TableItem(props) {
         </tr>
       );
 }
-//<td> {props.distFromPrev} </td>
-//<td> {props.daysFromPrev} </td>
 export default TableItem;
